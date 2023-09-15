@@ -15,7 +15,7 @@ Build a simple REST API capable of CRUD operations on a "person" resource, inter
   - [Installtion](#installation)
   - [Running the API](#running-the-api)
 - [Using the API](#using-the-api)
-  -[API Endpoints](#api-endpoints)
+  - [API Endpoints](#api-endpoints)
 
 ## Getting Started
 
