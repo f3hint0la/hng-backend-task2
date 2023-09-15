@@ -19,8 +19,8 @@ This documentation provides an overview of a simple REST API - **Person API** bu
 #### Response
 ```json
 {
-  "_id": "6434tdfghj9876544rftgh",
   "name": "Jane Doe",
+  "_id": "6434tdfghj9876544rftgh",
   "__v": 0
 }
 ```
@@ -34,7 +34,7 @@ This documentation provides an overview of a simple REST API - **Person API** bu
 ```json
 {
   "_id": "6434tdfghj9876544rftgh",
-  "name": "Mark Essien",
+  "name": "Jane Doe",
   "__v": 0
 }
 ```
@@ -61,7 +61,7 @@ This documentation provides an overview of a simple REST API - **Person API** bu
 #### Response
 ```json
 {
-  message: Person with id has been deleted
+  message: Person with id 6434tdfghj9876544rftgh has been deleted
 }
 ```
 
