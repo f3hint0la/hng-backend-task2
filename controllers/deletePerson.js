@@ -12,7 +12,7 @@ module.exports.deletePerson = async (req, res) => {
         .status(404)
         .json({ error: "Error finding person. Person not found." });
     }
-    return res.json({ message: `Person with ${personId} has been deleted` });
+    return res.json({ message: `Person with id ${personId} has been deleted` });
   } catch (error) {
     console.error("Error deleting person from the database:", error);
     res.status(500).json({ error: "Error while deleting person" });
