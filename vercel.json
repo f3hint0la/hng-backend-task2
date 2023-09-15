@@ -14,4 +14,8 @@
             "dest": "/app.js"
         }
     ]
+    "functions": {
+    "app.js": {
+      "maxDuration": 40
+    },
 }
