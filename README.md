@@ -55,4 +55,4 @@ npm run dev
 
 ## Using the API
 
-Endpoints are served on the `/api` route. For further information, [see](https://github.com/f3hint0la/hng-backend-task2/blob/main/DOCUMENTATION.md)
+Endpoints are served on the `/api` route. For further information, see [documentation](DOCUMENTATION.md)
