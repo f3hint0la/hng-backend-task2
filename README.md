@@ -1,6 +1,6 @@
 # HNGi10 BackEnd Task2
 
-## Task Deacription
+## Task Description
 
 ### Objective
 
