@@ -9,7 +9,7 @@ This documentation provides an overview of a simple REST API - **Person API** bu
 #### Description: Creates a new person and assigns a uniques id.
 ### URL: `/api`
 #### Method: `POST`
-### Sample Request Body
+#### Sample Request Body
 ```json
 {
   "name": "Jane Doe"
