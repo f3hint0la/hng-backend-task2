@@ -17,6 +17,10 @@
         {
             "src": "/(.*)",
             "dest": "/app.js"
+        },
+        {
+            "src": "/handler.js",
+            "dest": "/handler.js"
         }
     ]
 }
