@@ -2,7 +2,7 @@
 
 ## Task Deacription
 
-### OBjective
+### Objective
 
 Build a simple REST API capable of CRUD operations on a "person" resource, interfacing with any database of your choice. Your API should dynamically handle parameters, such as adding or retrieving a person by name. Accompany the development with UML diagrams to represent your system's design and database structure.
 
@@ -14,8 +14,8 @@ Build a simple REST API capable of CRUD operations on a "person" resource, inter
   - [Prerequisites](#prerequisites)
   - [Installtion](#installation)
   - [Running the API](#running-the-api)
--[Using the API](#using-the-api)
- -[API Endpoints](#api-endpoints)
+- [Using the API](#using-the-api)
+  -[API Endpoints](#api-endpoints)
 
 ## Getting Started
 
