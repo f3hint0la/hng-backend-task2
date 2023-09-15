@@ -15,7 +15,7 @@
         }
     ],
     "functions": {
-    "handler.js": {
+    "handler": {
       "maxDuration": 40
     },
 }
