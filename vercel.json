@@ -1,5 +1,7 @@
 {
     "version": 2,
+    "name": "hng-backend-task2",
+    "public": true,
     "builds": [
         {
             "src": "app.js", 
