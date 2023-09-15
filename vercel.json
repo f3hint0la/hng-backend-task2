@@ -14,8 +14,4 @@
             "dest": "/app.js"
         }
     ],
-    "functions": {
-    "handler": {
-      "maxDuration": 40
-    },
 }
