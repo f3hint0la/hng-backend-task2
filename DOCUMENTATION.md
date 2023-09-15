@@ -21,7 +21,7 @@ This documentation provides an overview of a simple REST API - **Person API** bu
 {
   "_id": "6434tdfghj9876544rftgh",
   "name": "Jane Doe",
-  "__v: 0
+  "__v": 0
 }
 ```
 
@@ -35,7 +35,7 @@ This documentation provides an overview of a simple REST API - **Person API** bu
 {
   "_id": "6434tdfghj9876544rftgh",
   "name": "Mark Essien",
-  "__v: 0
+  "__v": 0
 }
 ```
 
@@ -49,7 +49,7 @@ This documentation provides an overview of a simple REST API - **Person API** bu
 {
   "_id": "6434tdfghj9876544rftgh",
   "name": "New Name",
-  "__v: 0
+  "__v": 0
 }
 ```
 
